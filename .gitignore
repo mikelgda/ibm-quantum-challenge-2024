@@ -3,3 +3,5 @@
 # jupyter notebook
 __pycache__/
 .ipynb_checkpoints
+solutions/*/api.py
+
